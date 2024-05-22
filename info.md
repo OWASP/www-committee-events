@@ -12,7 +12,7 @@
 
 * [TBA - Chair](TBA)
 * [TBA - Vice Chair](TBA)
-* [TBA - Secretary]](TBA)
+* [TBA - Secretary](TBA)
 * TBA - Member
 * TBA - Member
 * TBA - Member
