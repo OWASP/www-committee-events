@@ -4,15 +4,21 @@ displaytext: Meeting Minutes
 layout:  null
 tab: true
 order: 1
-tags: chapters-committee
+tags: events-committee
 ---
 
-## Chapter Committee Monthly Meeting Minutes and Recordings
+## Events Committee Monthly Meeting Minutes and Recordings
 
-The OWASP Chapter Committee meets the second Tuesday of the month at 6 - 7pm UTC via [Zoom](https://us06web.zoom.us/j/86326217984)
-* Meeting ID: 863 2621 7984
-* Passcode: 510677
+The OWASP Events Committee meets TBA.
 
+## Meeting Invite
 
-OWASP Members can access the Chapter Committee Meeting Recordings [here](https://drive.google.com/drive/folders/188KE7vbm82SClD4ujkkN5y-IYgAF6w0s?usp=share_link) and the Meeting Minutes can be found [here](https://drive.google.com/drive/folders/1kO9qhlr7m4qXRsodOuYAKQNDc3Pqjzob?usp=share_link)
+The meeting invite can be found [here](TBA)
 
+## Meeting Minutes
+
+The Events Committee Meeting Minutes can be found [here](TBA)
+
+## Meeting Recordings
+
+OWASP Members can access the Events Committee Meeting Recordings [here](TBA)

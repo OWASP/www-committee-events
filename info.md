@@ -1,17 +1,26 @@
 ### Committee Information
-**Questions or Need Assistance:** 
-* [Chapter Committee Group Email](mailto:chapter-committee@owasp.org)
 
-**Social Links**
-* [OWASP Community Meetings Listings](https://owasp.org/www-community/meetings/)
-* [Chapter Committee YouTube Channel](https://www.youtube.com/channel/UCE2nt-oqRjwEAPSBtCtNVSw)
-* [Slack Channel #chapters-committee](https://app.slack.com/client/T04T40NHX/C010AF25WSZ/details/top)
+#### Questions or Need Assistance
 
-**Committee Members**
-- Avi Douglen – Global Board Member
-- Vandana Verma - Global Board Member
+* [Events Committee Group Email](mailto:events-committee@owasp.org)
 
+#### Social Links
 
+* [Slack Channel #events-committee](https://app.slack.com/client/T04T40NHX/C010AF25WSZ/details/top)
 
-Staff Contact
-- [Dawn Aitken](mailto:dawn.aitken@owasp.com)
+#### Committee Members
+
+* [TBA - Chair](TBA)
+* [TBA - Vice Chair](TBA)
+* [TBA - Secretary]](TBA)
+* TBA - Member
+* TBA - Member
+* TBA - Member
+
+#### Board Liaison
+
+* [TBA - Global Board Member Liaison](TBA)
+
+#### Staff Liaison
+
+* [Lauren Thomas](mailto:lauren.thomas@owasp.com)
