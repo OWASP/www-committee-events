@@ -16,7 +16,7 @@
 * Erez Yalon - Member
 * Allison Shubert - Member
 * Josh Grossman - Member
-* 
+  
 #### Board Liaison
 
 * [TBA - Global Board Member Liaison](TBA)
