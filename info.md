@@ -10,13 +10,13 @@
 
 #### Committee Members
 
-* [TBA - Chair](TBA)
-* [TBA - Vice Chair](TBA)
-* [TBA - Secretary](TBA)
-* TBA - Member
-* TBA - Member
-* TBA - Member
-
+* [Izar Tarandach](mailto:izar.tarandach@owasp.org) - Chair
+* [Harold Blankenship](mailto:harold.blankenship@owasp.org) - Vice Chair
+* [Maria Mora](mailto:maria.mora@owasp.org) - Secretary
+* Erez Yalon - Member
+* Allison Shubert - Member
+* Josh Grossman - Member
+* 
 #### Board Liaison
 
 * [TBA - Global Board Member Liaison](TBA)
