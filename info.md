@@ -8,14 +8,11 @@
 
 * [Slack Channel #events-committee](https://app.slack.com/client/T04T40NHX/C010AF25WSZ/details/top)
 
-#### Committee Members
+#### Other Committee Members
 
-* [Izar Tarandach](mailto:izar.tarandach@owasp.org) - Chair
-* [Allison Shubert](mailto:allison.shubert@owasp.org) - Vice Chair
-* [Maria Mora](mailto:maria.mora@owasp.org) - Secretary
-* Erez Yalon - Member
-* [Harold Blankenship](mailto:harold.blankenship@owasp.org) - Member
-* Josh Grossman - Member
+* Erez Yalon
+* [Harold Blankenship](mailto:harold.blankenship@owasp.org)
+* Josh Grossman
   
 #### Board Liaison
 
