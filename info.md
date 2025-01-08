@@ -11,9 +11,12 @@
 #### Other Committee Members
 
 * Erez Yalon
-* [Harold Blankenship](mailto:harold.blankenship@owasp.org)
 * Josh Grossman
-  
+
+#### Previous Committee Members
+
+* [Harold Blankenship](mailto:harold.blankenship@owasp.org) - Membership superseded by joining the Global Board in 2025
+ 
 #### Board Liaison
 
 * [TBA - Global Board Member Liaison](TBA)
