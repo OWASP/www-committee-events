@@ -6,6 +6,7 @@
 **Other Committee Members**
 - Erez Yalon
 - Josh Grossman
+- Shira Shamban
 
 **Liaisons**
 - [Lauren Thomas](mailto:lauren.thomas@owasp.com) - Staff
